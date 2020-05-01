@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "http_springer_books"
 version = "0.1.0"
-description = ""
+description = "Downloads ebooks from springer site based on links provided in an Excel file, wich was converted from a pdf file (using smallpdf site)."
 authors = ["Leandro Gabriel <lassisg@gmail.com>"]
 license = "MIT"
 
